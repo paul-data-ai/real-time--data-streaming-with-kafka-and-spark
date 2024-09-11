@@ -4,3 +4,4 @@ venv/*
 requirements
 requirements.txt
 s_conn.py
+__pycache__
