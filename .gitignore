@@ -1,0 +1,6 @@
+notebooks/*
+venv/*
+.idea
+requirements
+requirements.txt
+s_conn.py
